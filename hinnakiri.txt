@@ -1,0 +1,4 @@
+100-lasuline patarei,65,valge
+100-lasuline patarei,75,kollane
+50-lasuline patarei,90,valge
+50-lasuline patarei,100,kollane

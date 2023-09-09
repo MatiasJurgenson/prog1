@@ -1,0 +1,4 @@
+5a  xxx-x---x
+5b  x--xxx---
+5c  ----xx-x-
+5d  xxxx---xx
