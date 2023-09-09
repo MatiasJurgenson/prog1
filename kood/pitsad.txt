@@ -1,0 +1,5 @@
+1 Torino 7.8
+4 Prato 6.8
+2 Margherita 5.8
+3 Imperia 6.8
+7 Roma 5.7

@@ -1,0 +1,5 @@
+4 Paprika 0.7
+6 Tomat 1.0
+9 Seened 0.9
+10 Sibul 1.0
+11 Salaami 2.0

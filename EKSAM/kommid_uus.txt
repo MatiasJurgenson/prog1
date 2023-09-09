@@ -1,0 +1,5 @@
+Mari;martsipan;0.5
+Mari;karamell;2.0
+Mari;šokolaad;0.25
+Mari;marmelaad;1.25
+Mati;pralinee;1.25
